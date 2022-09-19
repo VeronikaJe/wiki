@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2af36a07","path":"/build/things-you-need.html","title":"Things you need","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1663581746000,"contributors":[{"name":"Lenka","email":"40592413+typwrtr@users.noreply.github.com","commits":1}]},"filePathRelative":"build/things-you-need.md"}');export{e as data};

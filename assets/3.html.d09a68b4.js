@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-426c7a7e","path":"/about/3.html","title":"AUT token","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1663581746000,"contributors":[{"name":"Lenka","email":"40592413+typwrtr@users.noreply.github.com","commits":1}]},"filePathRelative":"about/3.md"}');export{t as data};

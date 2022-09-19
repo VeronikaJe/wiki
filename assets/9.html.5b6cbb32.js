@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2df2530a","path":"/about/9.html","title":"Glossary","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1663581746000,"contributors":[{"name":"Lenka","email":"40592413+typwrtr@users.noreply.github.com","commits":1}]},"filePathRelative":"about/9.md"}');export{t as data};

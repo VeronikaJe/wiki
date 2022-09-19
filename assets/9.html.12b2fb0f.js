@@ -1,0 +1,1 @@
+import{_ as a,o,c as s,b as e,d as c}from"../app.20fbaeff.mjs";const t={},r=e("h1",{id:"become-an-ambassador",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#become-an-ambassador","aria-hidden":"true"},"#"),c(" Become an Ambassador")],-1),n=[r];function d(_,m){return o(),s("div",null,n)}const h=a(t,[["render",d],["__file","9.html.vue"]]);export{h as default};

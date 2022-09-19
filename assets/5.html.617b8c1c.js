@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as a,b as e,d as n}from"../app.20fbaeff.mjs";const o={},r=e("h1",{id:"connect-api",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#connect-api","aria-hidden":"true"},"#"),n(" Connect API")],-1),s=[r];function _(d,i){return c(),a("div",null,s)}const l=t(o,[["render",_],["__file","5.html.vue"]]);export{l as default};

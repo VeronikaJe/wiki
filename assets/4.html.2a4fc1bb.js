@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3f02c940","path":"/about/4.html","title":"Why Authtrail","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1663581746000,"contributors":[{"name":"Lenka","email":"40592413+typwrtr@users.noreply.github.com","commits":1}]},"filePathRelative":"about/4.md"}');export{t as data};

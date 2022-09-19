@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as o,b as e,d as s}from"../app.20fbaeff.mjs";const c={},n=e("h1",{id:"apply-as-a-new-module",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#apply-as-a-new-module","aria-hidden":"true"},"#"),s(" Apply as a new module")],-1),r=[n];function d(_,l){return t(),o("div",null,r)}const h=a(c,[["render",d],["__file","8.html.vue"]]);export{h as default};

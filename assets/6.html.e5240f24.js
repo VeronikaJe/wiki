@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-382f66c4","path":"/about/6.html","title":"Developing Web3 with Authtrail","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1663581746000,"contributors":[{"name":"Lenka","email":"40592413+typwrtr@users.noreply.github.com","commits":1}]},"filePathRelative":"about/6.md"}');export{t as data};

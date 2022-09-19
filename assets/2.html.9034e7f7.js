@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,b as e,d as r}from"../app.20fbaeff.mjs";const o={},s=e("h1",{id:"create-a-project",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#create-a-project","aria-hidden":"true"},"#"),r(" Create a project")],-1),_=[s];function n(d,i){return a(),c("div",null,_)}const l=t(o,[["render",n],["__file","2.html.vue"]]);export{l as default};
